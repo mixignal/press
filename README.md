@@ -6,29 +6,15 @@ This repo is hosted on http://mixignal.press which is an addon domin in mixignal
 - [List of Emojis](https://gist.github.com/rxaviers/7360908)
 
 
-## Book Ideas 
-### Essential Engineering 
-- Math
-  - Algebra (Feynman's lecture)
-  - Art of appoximation (Sanjoy Mahajan)
-  - What's an imaginary number (Feynman's lecture and 1,2,3 infinity)
-  - Complex number (Feynman's lecture, 1,2,3.. Infity)
-  - Vector Calc (feynman)
-  - Calculus (Robert Ghrist, UPenn)
-  - Vector Calc (Feynman's lectures and Ghrist)
-  - Linear Algebra (Strang, UPenn lecture)
-  - Calculus ([Robert Ghrist's](https://www2.math.upenn.edu/~ghrist/) Youtube lectures, Strang OCW)
-  - Diff equations.
-  - Random numbers and statistics
-- Electromagnetics
-  - Feynman lectures: Vol-I 6: Probability, 22:Algebra,  25:Linear Systems, 50: Harmonics and Fourier series.
-  - Griffith
-  - Purcell
-- Presenting Data (Edward Tufte)
 
 ## Some Self-publishing Notes
-
+ 
+- This [thread at edwardtufte.com](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB) on people talking about book design is a **must** read.
 - Check out Edward Tufte Visual Display of Quantitative Information for details on self-publishing
+- Buy ISBN Numbers, register and copyright your book from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn), official ISBN source for US Publishers Only.
+  - **NOTE** Bowker has pretty much all resources to self-publish, ISBNs, barcodes, market, promote, etc
+- Register and get a [DOI](https://doi.org/) from one of the [DOI Registration Agencies](https://www.doi.org/registration_agencies.html).
+- A good explanation of different open-source licensing [here](https://snyk.io/blog/mit-apache-bsd-fairest-of-them-all/)
 - Edward Tufte's [Beautiful Evidence chronicles](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000262&topic_id=1): writing, designing, publishing, consequences 
 - Review Edward Tufte's course from his handout.
 - Review some the of the books on typography and design from the Tufte's forum (see below)
@@ -174,3 +160,22 @@ The following packages are optional and will be automatically used if installed:
  * mathpazo
  * soul
 
+## Book Ideas 
+### Essential Engineering 
+- Math
+  - Algebra (Feynman's lecture)
+  - Art of appoximation (Sanjoy Mahajan)
+  - What's an imaginary number (Feynman's lecture and 1,2,3 infinity)
+  - Complex number (Feynman's lecture, 1,2,3.. Infity)
+  - Vector Calc (feynman)
+  - Calculus (Robert Ghrist, UPenn)
+  - Vector Calc (Feynman's lectures and Ghrist)
+  - Linear Algebra (Strang, UPenn lecture)
+  - Calculus ([Robert Ghrist's](https://www2.math.upenn.edu/~ghrist/) Youtube lectures, Strang OCW)
+  - Diff equations.
+  - Random numbers and statistics
+- Electromagnetics
+  - Feynman lectures: Vol-I 6: Probability, 22:Algebra,  25:Linear Systems, 50: Harmonics and Fourier series.
+  - Griffith
+  - Purcell
+- Presenting Data (Edward Tufte)
